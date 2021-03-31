@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fsakhtari
-- 👀 I’m interested in Statistical Genetics, Biostatistics, Computational Biology, Pharmacogenomics, Precision Medicine, Health Data Science.
-- 💞️ I’m looking to collaborate on Gene x Environment Interactions
+I’m a Bioinformatics Scientist at the National Institute of Environmental Health Sciences (NIEHS)
+My research interests are in Statistical Genetics, Biostatistics, Computational Biology, Pharmacogenomics, Precision Medicine & Health Data Science.
+
 
 <!---
 fsakhtari/fsakhtari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
