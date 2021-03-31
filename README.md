@@ -1,4 +1,5 @@
-I’m a Statistical Geneticist at the National Institute of Environmental Health Sciences (NIEHS)
+I’m a Statistical Geneticist at the National Institute of Environmental Health Sciences (NIEHS).
+
 My research interests are in Statistical Genetics, Biostatistics, Computational Biology, Pharmacogenomics, Precision Medicine & Health Data Science.
 
 
